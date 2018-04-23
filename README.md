@@ -25,7 +25,7 @@
 - 其他：beatl/freemarker/tbscadule/canary/nuts/swagger等
 - linux：服务器部署各种服务
 # 工作经历
-## 北京必联网络科技公司 （ 2015年5月 ~ 今）
+## 北京必联网络科技公司 （ 2015年6月 ~ 今）
 ### 采购商采购和招标项目
 - 介绍：本项目是面向供应商采购商,完成招标和采购的功能流程.
  - 技术：本项目使用spring-boot,spring-mvc,spring-cloud,dubbo,mybaties,spring,nginx,mysql,swagger
